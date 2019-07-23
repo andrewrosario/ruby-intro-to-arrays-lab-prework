@@ -23,3 +23,6 @@ def first_element_with_array_methods(array)
   array.slice(0)
 end
 
+def last_element_with_array_methods(array)
+  array.slice(-1)
+end
